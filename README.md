@@ -2,7 +2,7 @@
 This is a very simple TODO list includes add list item, delete list item and important marking options.
 
 ### To Run this project
-Clone this repository to you local machine and run the index.html file from the "Simple-TODO-List" folder to any browser.
+First Fork and then Clone this repository to you local machine and run the index.html file from the "Simple-TODO-List" folder to any browser.
 
     git clone https://github.com/Mahbub-Hossain-Durjoy/Simple-TODO-List.git
 
